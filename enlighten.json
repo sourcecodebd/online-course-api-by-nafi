@@ -15,6 +15,7 @@
         "_id": 2,
         "course_name": "C-Programming",
         "instructor": "Shanti Chondro Ray",
+        "course_duration": "5 months",
         "description": "Gain the skill to read and transcribe complex data declarations. Candidates will be able to use advanced pointer techniques effectively. Develop an understanding of the features within C Programming software.Courses delivered by world-class training instructors.",
         "rating": 3.3,
         "rating_count": 894,
@@ -61,7 +62,8 @@
     {
         "_id": 6,
         "course_name": "React",
-        "instructor": "Belal Sorkar",
+        "instructor": "Sarafat Uddin",
+        "course_duration": "5 months",
         "description": "user accounts Learn the latest React libraries and tools. Use cutting-edge ES6/ES7 JavaScript. Deploy your React apps live to the web. Master React, Redux, React-Router, and more.",
         "rating": 4.4,
         "rating_count": 454,
@@ -72,7 +74,8 @@
     {
         "_id": 7,
         "course_name": "Java",
-        "instructor": "Belal Sorkar",
+        "instructor": "Asraful Haque",
+        "course_duration": "4 months",
         "description": "Develop a simple SOAP service and client, Master the four security concepts - Authentication Confidentiality Integrity and Non Repudiation. Implement Username Token Profile authentication on client and the provider. Learn how to use the java keytool. Implement Encryption and Decryption.",
         "rating": 3.5,
         "rating_count": 127,
