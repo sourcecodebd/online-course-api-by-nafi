@@ -63,7 +63,7 @@
         "course_name": "React",
         "instructor": "Belal Sorkar",
         "description": "user accounts Learn the latest React libraries and tools. Use cutting-edge ES6/ES7 JavaScript. Deploy your React apps live to the web. Master React, Redux, React-Router, and more.",
-        "rating": 4.8,
+        "rating": 4.4,
         "rating_count": 454,
         "picture": {
             "thumbnail": "https://i.ibb.co/ZmmvBQX/react.png"
@@ -98,7 +98,7 @@
         "instructor": "Israfil Hossain",
         "course_duration": "4 months",
         "description": "You’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript.",
-        "rating": 5.0,
+        "rating": 4.1,
         "rating_count": 398,
         "picture": {
             "thumbnail": "https://i.ibb.co/9yjDHPk/nodejs.png"
